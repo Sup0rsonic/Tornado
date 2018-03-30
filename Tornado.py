@@ -1,8 +1,6 @@
 import urllib2
 import urllib
 import threading
-import thread
-import Queue
 import sys
 import re
 import cookielib
